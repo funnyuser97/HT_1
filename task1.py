@@ -1,4 +1,3 @@
-
 in_data=input()
 print('Input  data: ',in_data)
 mylist=list(in_data.split(', '))
