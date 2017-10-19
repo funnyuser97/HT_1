@@ -1,1 +1,1 @@
-print('Result')
+print('Result:')
