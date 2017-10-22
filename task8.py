@@ -2,6 +2,7 @@
 mylist=[(1,2,3),(3,4,5),(6,7,8)]
 number=int(input('Input value for change :'))
 print('Input : ',mylist)
+
 for i in range(len(mylist)):
 	tmp_list=list(mylist[i])
 	tmp_list[-1]=number
